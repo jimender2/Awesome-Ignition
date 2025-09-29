@@ -26,3 +26,25 @@ List of Ignition Modules and Resources
 ## HiveMQ Ignition Module - MQTT Subscription as a device driver. 
 - Compatibility: Ignition 8.1
 [Github Link](https://github.com/system24seven/hivemq-ignition-module)
+
+
+# GitHub Groups
+
+Ignition Module Development Group - ( https://github.com/ignitionmoduledevelopmentcommunity )
+
+
+
+# Tutorials
+
+Git Ignition Lab - ( https://github.com/ia-eknorr/git-ignition-lab )
+
+
+# Scripts
+
+Ignition Lint - Linter for Ignition screens and scripts - https://github.com/ia-eknorr/ignition-lint
+
+
+# Misc
+
+Ignition Style Guide - (https://github.com/ia-eknorr/ignition-git-style-guide)
+
