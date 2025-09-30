@@ -4,7 +4,7 @@ List of Ignition Modules and Resources
 
 # Modules
 
-# Modules
+
 |Name|Author|Description|8.1|8.3|Module|
 | --- | --- | --- | --- | --- | --|
 |[Cautious-memory](https://github.com/jimender2/cautious-memory)|jimender|Modern Ignition Vision PDF Viewer|:white_check_mark:||
@@ -22,21 +22,29 @@ List of Ignition Modules and Resources
 
 # GitHub Groups
 
-Ignition Module Development Group - ( https://github.com/ignitionmoduledevelopmentcommunity )
+## Ignition Module Development Group
+
+[Github Link]( https://github.com/ignitionmoduledevelopmentcommunity )
 
 
 
 # Tutorials
 
-Git Ignition Lab - ( https://github.com/ia-eknorr/git-ignition-lab )
+## Git Ignition Lab
+
+[Github Link]( https://github.com/ia-eknorr/git-ignition-lab )
 
 
 # Scripts
 
-Ignition Lint - Linter for Ignition screens and scripts - https://github.com/ia-eknorr/ignition-lint
+## Ignition Lint - Linter for Ignition screens and scripts
+
+[Github Link](https://github.com/ia-eknorr/ignition-lint)
 
 
 # Misc
 
-Ignition Style Guide - (https://github.com/ia-eknorr/ignition-git-style-guide)
+## Ignition Style Guide
+
+[Github Link](https://github.com/ia-eknorr/ignition-git-style-guide)
 
